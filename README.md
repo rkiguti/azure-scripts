@@ -1,7 +1,7 @@
 # azure.scripts
 Scripts para trabalhar com Azure, VMs visando automação
 
-##PowerShell##
+## PowerShell
 
 ### VMs
 **install-iis-aspnet45-urlrewrite.ps1**
@@ -18,7 +18,7 @@ Instala o IIS e módulos adicionais:
  * Instala o Web Platform Installer no IIS
  * Habilita o módulo URL Rewrite no IIS
 
-##Runbooks##
+## Runbooks
 
 ### VMs
 **ScaleVM.ps1**
