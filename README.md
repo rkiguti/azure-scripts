@@ -1,24 +1,24 @@
 # azure.scripts
-Scripts para trabalhar com Azure, VMs visando automa玢o
+Scripts para trabalhar com Azure, VMs visando automa莽茫o
 
-##PowerShell
+##PowerShell##
 
 ### VMs
 **install-iis-aspnet45-urlrewrite.ps1**
 
-Instala o IIS e m骴ulos adicionais:
- * Instala o IIS e depend阯cias para executar aplica珲es em ASP.NET 4.5
- * Habilita o m骴ulo Request Monitor no IIS
- * Habilita os m骴ulos Static e Dynamic Content Compression no IIS
- * Habilita o m骴ulo HTTP Redirection no IIS
- * Habilita o m骴ulo IP and Domain Restrictions no IIS
- * Habilita o m骴ulo IIS 6 Metabase Compatibility no IIS
- * Habilita o m骴ulo Basic Authentication no IIS
- * Habilita o m骴ulo HTTP Activation do WCF Services (Permite executar WCF no IIS)
+Instala o IIS e m贸dulos adicionais:
+ * Instala o IIS e depend锚ncias para executar aplica莽玫es em ASP.NET 4.5
+ * Habilita o m贸dulo Request Monitor no IIS
+ * Habilita os m贸dulos Static e Dynamic Content Compression no IIS
+ * Habilita o m贸dulo HTTP Redirection no IIS
+ * Habilita o m贸dulo IP and Domain Restrictions no IIS
+ * Habilita o m贸dulo IIS 6 Metabase Compatibility no IIS
+ * Habilita o m贸dulo Basic Authentication no IIS
+ * Habilita o m贸dulo HTTP Activation do WCF Services (Permite executar WCF no IIS)
  * Instala o Web Platform Installer no IIS
- * Habilita o m骴ulo URL Rewrite no IIS
+ * Habilita o m贸dulo URL Rewrite no IIS
 
-##Runbooks
+##Runbooks##
 
 ### VMs
 **ScaleVM.ps1**
